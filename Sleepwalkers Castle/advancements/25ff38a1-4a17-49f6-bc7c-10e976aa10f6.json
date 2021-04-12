@@ -251,6 +251,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2018-01-15 21:04:45 -0600",
+      "diamond_helmet": "2018-01-15 21:04:45 -0600",
+      "diamond_chestplate": "2018-01-15 21:04:45 -0600",
+      "diamond_boots": "2018-01-15 21:04:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-27 21:03:47 -0500"
@@ -320,6 +329,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2017-10-27 21:03:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-01-14 16:00:19 -0600"
     },
     "done": true
   },
@@ -668,6 +683,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2018-01-14 15:43:29 -0600",
+      "bred_sheep": "2018-01-15 05:02:39 -0600",
       "bred_wolf": "2017-12-03 22:56:06 -0600",
       "bred_cow": "2017-10-28 18:23:12 -0500"
     },
@@ -805,6 +822,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2017-10-29 15:54:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-01-15 02:47:08 -0600"
     },
     "done": true
   },
