@@ -425,12 +425,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2017-12-08 23:00:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2017-10-27 21:46:01 -0500",
       "cooked_beef": "2017-10-27 21:15:21 -0500",
       "baked_potato": "2017-10-28 18:44:12 -0500",
       "apple": "2017-11-28 17:15:06 -0600",
+      "melon": "2017-12-03 23:55:44 -0600",
       "rotten_flesh": "2017-10-29 00:28:45 -0500",
       "cooked_chicken": "2017-10-28 12:06:45 -0500",
       "carrot": "2017-10-29 00:36:01 -0500"
@@ -611,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2017-11-30 22:41:50 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2017-10-29 15:35:35 -0500"
@@ -655,6 +668,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_wolf": "2017-12-03 22:56:06 -0600",
       "bred_cow": "2017-10-28 18:23:12 -0500"
     },
     "done": false
@@ -974,6 +988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2017-12-02 22:26:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-10-29 00:32:46 -0500"
@@ -1036,6 +1056,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2017-11-30 22:29:15 -0600",
       "wither_skeleton": "2017-11-28 20:12:19 -0600",
       "zombie_villager": "2017-10-28 13:14:32 -0500",
       "magma_cube": "2017-11-26 20:34:42 -0600",
@@ -1059,9 +1080,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2017-12-08 23:00:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2017-11-24 15:54:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2017-11-30 22:58:04 -0600"
     },
     "done": true
   },
@@ -1122,6 +1155,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2017-10-28 11:49:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-12-08 23:00:00 -0600"
     },
     "done": true
   },
@@ -1569,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2017-12-02 21:31:06 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2017-10-27 22:22:30 -0500"
@@ -1593,9 +1638,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-12-08 23:00:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2017-10-27 21:03:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-12-02 22:26:09 -0600"
     },
     "done": true
   },
@@ -1779,6 +1836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2017-11-30 22:58:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2017-10-28 21:30:03 -0500"
@@ -1814,7 +1877,8 @@
       "roofed_forest": "2017-11-22 21:51:36 -0600",
       "river": "2017-10-27 21:07:37 -0500",
       "jungle": "2017-11-25 22:57:01 -0600",
-      "desert": "2017-10-27 21:13:42 -0500"
+      "desert": "2017-10-27 21:13:42 -0500",
+      "stone_beach": "2017-12-02 21:51:42 -0600"
     },
     "done": false
   },
@@ -1839,6 +1903,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2017-11-26 21:51:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2017-12-25 00:45:18 -0600"
     },
     "done": true
   },
@@ -1932,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2017-12-02 22:26:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2017-10-27 23:41:44 -0500"
@@ -1998,6 +2074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2017-12-02 22:26:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-10-28 01:37:44 -0500"
@@ -2037,6 +2119,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2017-11-26 16:42:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-12-02 22:26:09 -0600"
     },
     "done": true
   },
@@ -2175,6 +2263,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2017-10-27 21:03:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2017-11-30 22:58:04 -0600"
     },
     "done": true
   },
