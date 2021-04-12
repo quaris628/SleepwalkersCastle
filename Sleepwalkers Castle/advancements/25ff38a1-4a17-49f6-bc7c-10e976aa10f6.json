@@ -1519,6 +1519,7 @@
       "bread": "2018-08-15 10:09:56 -0500",
       "rotten_flesh": "2017-10-29 00:28:45 -0500",
       "cooked_chicken": "2017-10-28 12:06:45 -0500",
+      "mushroom_stew": "2018-08-25 22:58:49 -0500",
       "carrot": "2017-10-29 00:36:01 -0500"
     },
     "done": false
@@ -1619,15 +1620,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2017-10-27 21:03:48 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-10-27 21:03:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2017-10-27 21:03:48 -0500"
     },
     "done": true
   },
