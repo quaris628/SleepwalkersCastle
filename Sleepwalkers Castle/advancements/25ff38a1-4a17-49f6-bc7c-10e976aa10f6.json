@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-04-03 23:52:44 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2017-10-27 23:41:44 -0500"
@@ -152,6 +158,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2017-11-26 20:34:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-03 22:46:04 -0500"
     },
     "done": true
   },
@@ -428,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-03-23 21:13:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2017-10-27 23:41:44 -0500"
@@ -485,6 +503,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2017-11-24 20:13:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-23 21:43:26 -0500"
     },
     "done": true
   },
@@ -688,9 +712,9 @@
       "minecraft:wither_skeleton": "2017-11-28 20:12:19 -0600",
       "minecraft:husk": "2017-10-29 15:55:48 -0500",
       "minecraft:cave_spider": "2018-08-12 19:50:02 -0500",
-      "minecraft:stray": "2018-08-14 23:59:42 -0500",
-      "minecraft:silverfish": "2017-10-31 16:50:38 -0500",
       "minecraft:enderman": "2017-10-27 21:24:20 -0500",
+      "minecraft:silverfish": "2017-10-31 16:50:38 -0500",
+      "minecraft:stray": "2018-08-14 23:59:42 -0500",
       "minecraft:zombie": "2017-10-27 21:18:51 -0500",
       "minecraft:drowned": "2018-08-14 22:48:39 -0500",
       "minecraft:zombie_villager": "2017-10-28 13:14:32 -0500"
@@ -706,6 +730,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2017-10-31 20:57:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-03-14 11:40:48 -0500"
     },
     "done": true
   },
@@ -897,6 +927,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2017-10-27 22:02:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2020-03-23 20:35:45 -0500"
     },
     "done": true
   },
@@ -1301,11 +1337,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2018-08-14 01:03:14 -0500",
       "minecraft:jungle_edge": "2017-11-25 22:55:16 -0600",
+      "minecraft:cold_ocean": "2018-08-14 01:03:14 -0500",
       "minecraft:snowy_mountains": "2018-08-14 01:14:42 -0500",
-      "minecraft:forest": "2017-10-27 21:06:06 -0500",
       "minecraft:mountains": "2017-10-27 22:01:32 -0500",
+      "minecraft:forest": "2017-10-27 21:06:06 -0500",
       "minecraft:taiga": "2017-11-25 22:49:02 -0600",
       "minecraft:desert_hills": "2017-10-27 21:13:39 -0500",
       "minecraft:giant_tree_taiga": "2018-08-15 00:14:12 -0500",
@@ -1322,14 +1358,14 @@
       "minecraft:savanna_plateau": "2017-10-27 21:59:44 -0500",
       "minecraft:beach": "2017-10-27 22:16:30 -0500",
       "minecraft:dark_forest": "2017-11-22 21:51:36 -0600",
-      "minecraft:lukewarm_ocean": "2018-08-14 00:02:12 -0500",
       "minecraft:river": "2017-10-27 21:07:37 -0500",
+      "minecraft:lukewarm_ocean": "2018-08-14 00:02:12 -0500",
       "minecraft:snowy_taiga": "2018-08-14 01:16:51 -0500",
       "minecraft:birch_forest_hills": "2017-10-27 23:30:13 -0500",
       "minecraft:wooded_mountains": "2017-10-27 22:01:52 -0500",
       "minecraft:wooded_hills": "2017-10-27 22:00:13 -0500",
-      "minecraft:giant_tree_taiga_hills": "2018-08-15 00:15:07 -0500",
       "minecraft:stone_shore": "2017-12-02 21:51:42 -0600",
+      "minecraft:giant_tree_taiga_hills": "2018-08-15 00:15:07 -0500",
       "minecraft:swamp": "2017-10-27 22:17:01 -0500",
       "minecraft:snowy_taiga_hills": "2018-08-14 22:53:31 -0500",
       "minecraft:savanna": "2017-10-27 21:20:23 -0500",
@@ -1427,6 +1463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2020-03-23 20:35:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-27 19:15:00 -0500"
@@ -1448,6 +1490,18 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2017-10-28 11:49:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-04-03 22:46:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-03-23 21:43:26 -0500"
     },
     "done": true
   },
@@ -1605,6 +1659,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2018-08-13 23:13:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-03-23 21:50:15 -0500"
     },
     "done": true
   },
@@ -1896,6 +1956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-03-23 21:32:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-08-15 11:13:56 -0500",
@@ -2038,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2020-03-23 20:35:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-10-27 21:03:48 -0500"
@@ -2083,6 +2155,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-27 21:03:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-03 22:46:04 -0500"
     },
     "done": true
   },
@@ -2437,9 +2515,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-03 21:27:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2017-10-27 23:41:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-23 21:43:50 -0500"
     },
     "done": true
   },
@@ -2536,6 +2626,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2017-10-27 21:26:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-03 22:46:04 -0500"
     },
     "done": true
   },
@@ -3205,5 +3301,5 @@
     },
     "done": true
   },
-  "DataVersion": 2227
+  "DataVersion": 2230
 }
