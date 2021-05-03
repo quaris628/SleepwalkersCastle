@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-05-01 15:23:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2018-08-13 01:43:30 -0500"
@@ -586,9 +592,11 @@
       "minecraft:creeper": "2018-08-12 19:05:49 -0500",
       "minecraft:slime": "2018-08-12 22:50:30 -0500",
       "minecraft:phantom": "2018-08-13 19:57:07 -0500",
+      "minecraft:witch": "2020-05-08 21:56:40 -0500",
       "minecraft:husk": "2018-08-10 21:21:59 -0500",
       "minecraft:cave_spider": "2018-08-12 23:44:41 -0500",
       "minecraft:silverfish": "2020-04-27 17:44:23 -0500",
+      "minecraft:enderman": "2020-05-08 21:42:32 -0500",
       "minecraft:zombie": "2018-08-12 19:05:56 -0500",
       "minecraft:drowned": "2018-08-12 23:02:37 -0500"
     },
@@ -1400,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-05-08 20:54:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2018-08-13 22:21:09 -0500"
@@ -1555,6 +1569,7 @@
       "cooked_mutton": "2018-08-13 23:50:24 -0500",
       "cooked_beef": "2018-08-10 21:23:51 -0500",
       "baked_potato": "2018-08-13 21:48:25 -0500",
+      "apple": "2020-05-01 16:21:23 -0500",
       "bread": "2018-08-13 22:21:11 -0500",
       "rotten_flesh": "2018-08-10 21:22:21 -0500",
       "cooked_chicken": "2018-08-13 22:59:04 -0500",
