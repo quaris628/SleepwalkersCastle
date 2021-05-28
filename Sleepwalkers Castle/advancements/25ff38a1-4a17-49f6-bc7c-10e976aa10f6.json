@@ -968,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-26 15:06:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2020-04-30 00:42:58 -0500"
@@ -1559,6 +1565,12 @@
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2020-08-22 21:12:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-26 15:06:30 -0600"
     },
     "done": true
   },
@@ -2463,6 +2475,7 @@
       "sweet_berries": "2020-04-30 20:42:23 -0500",
       "cooked_beef": "2017-10-27 21:15:21 -0500",
       "baked_potato": "2017-10-28 18:44:12 -0500",
+      "beef": "2020-11-25 20:42:21 -0600",
       "apple": "2017-11-28 17:15:06 -0600",
       "potato": "2020-05-16 12:26:15 -0500",
       "poisonous_potato": "2020-05-17 20:22:30 -0500",
@@ -3279,6 +3292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-26 15:06:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2020-05-13 14:08:52 -0500"
@@ -3999,6 +4018,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2017-11-22 10:45:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-11-25 20:49:22 -0600"
     },
     "done": true
   },
