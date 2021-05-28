@@ -1832,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-09-24 11:19:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2020-08-22 20:47:39 -0500",
@@ -3175,6 +3181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-09-24 11:19:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-10-28 01:10:27 -0500"
@@ -3898,5 +3910,5 @@
     },
     "done": true
   },
-  "DataVersion": 2578
+  "DataVersion": 2580
 }
