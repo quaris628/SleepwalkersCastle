@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-12-26 15:14:50 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-10-27 21:03:48 -0500"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2020-05-06 02:38:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-12-26 18:27:20 -0600"
     },
     "done": true
   },
@@ -815,6 +827,7 @@
       "minecraft:spider": "2017-10-27 21:15:45 -0500",
       "minecraft:creeper": "2017-10-27 21:18:19 -0500",
       "minecraft:slime": "2017-10-27 22:22:24 -0500",
+      "minecraft:evoker": "2020-12-26 20:29:18 -0600",
       "minecraft:phantom": "2018-08-01 19:04:00 -0500",
       "minecraft:zombified_piglin": "2017-11-30 22:29:15 -0600",
       "minecraft:witch": "2017-10-27 23:14:54 -0500",
@@ -825,6 +838,7 @@
       "minecraft:enderman": "2017-10-27 21:24:20 -0500",
       "minecraft:silverfish": "2017-10-31 16:50:38 -0500",
       "minecraft:stray": "2018-08-14 23:59:42 -0500",
+      "minecraft:vex": "2020-12-26 20:29:42 -0600",
       "minecraft:zombie": "2017-10-27 21:18:51 -0500",
       "minecraft:drowned": "2018-08-14 22:48:39 -0500",
       "minecraft:zombie_villager": "2017-10-28 13:14:32 -0500"
@@ -1160,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-12-26 20:23:47 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2017-10-28 01:10:27 -0500"
@@ -1391,6 +1411,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2018-02-01 18:53:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-12-26 20:09:42 -0600"
     },
     "done": true
   },
@@ -1681,6 +1707,7 @@
       "minecraft:birch_forest": "2017-10-27 22:08:30 -0500",
       "minecraft:jungle_hills": "2017-11-25 22:56:56 -0600",
       "minecraft:snowy_beach": "2018-08-14 01:14:39 -0500",
+      "minecraft:warm_ocean": "2020-12-26 19:12:01 -0600",
       "minecraft:deep_lukewarm_ocean": "2020-04-30 01:19:52 -0500",
       "minecraft:savanna_plateau": "2017-10-27 21:59:44 -0500",
       "minecraft:beach": "2017-10-27 22:16:30 -0500",
@@ -1778,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-12-26 01:38:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2017-10-27 21:09:07 -0500"
@@ -1841,6 +1874,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2019-05-28 18:40:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-12-26 14:57:42 -0600"
     },
     "done": true
   },
@@ -2495,6 +2534,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-12-26 20:23:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-12-26 15:14:50 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2018-08-04 21:03:49 -0500"
@@ -2516,6 +2567,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2020-08-22 21:12:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2020-12-26 20:23:47 -0600"
     },
     "done": true
   },
@@ -3226,6 +3283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-12-26 01:38:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-27 21:03:47 -0500"
@@ -3517,6 +3580,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-08-22 21:09:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2020-12-26 20:23:47 -0600"
     },
     "done": true
   },
