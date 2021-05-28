@@ -1130,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-08-26 01:51:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-10-27 23:41:44 -0500"
@@ -1355,6 +1361,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2020-04-28 11:25:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-08-26 02:12:59 -0500"
     },
     "done": true
   },
@@ -1697,6 +1709,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2020-03-23 20:35:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-08-26 01:54:44 -0500"
     },
     "done": true
   },
@@ -2296,6 +2314,7 @@
       "apple": "2017-11-28 17:15:06 -0600",
       "potato": "2020-05-16 12:26:15 -0500",
       "poisonous_potato": "2020-05-17 20:22:30 -0500",
+      "mutton": "2020-08-26 01:34:26 -0500",
       "bread": "2018-08-15 10:09:56 -0500",
       "golden_apple": "2020-05-08 02:45:32 -0500",
       "rotten_flesh": "2017-10-29 00:28:45 -0500",
@@ -3561,6 +3580,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2017-10-28 01:38:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2020-08-26 01:54:44 -0500"
     },
     "done": true
   },
