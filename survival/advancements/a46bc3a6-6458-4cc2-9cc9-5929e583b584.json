@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2021-05-30 15:17:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-05-29 13:02:01 -0500"
@@ -35,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-05-30 15:28:08 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-05-29 14:36:46 -0500"
@@ -44,6 +56,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2021-05-29 12:58:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-05-30 15:53:43 -0500"
     },
     "done": true
   },
@@ -95,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2021-05-30 15:17:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-05-29 19:43:46 -0500"
@@ -104,6 +128,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-29 20:36:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-30 15:53:43 -0500"
     },
     "done": true
   },
@@ -245,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-05-30 15:10:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2021-05-29 12:34:10 -0500"
@@ -379,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2021-05-30 14:40:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-05-29 13:02:01 -0500"
@@ -448,6 +490,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-05-29 20:36:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-05-30 15:53:43 -0500"
     },
     "done": true
   },
@@ -567,7 +615,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_cow": "2021-05-29 15:40:12 -0500"
+      "bred_chicken": "2021-05-30 15:32:42 -0500",
+      "bred_cow": "2021-05-29 15:40:12 -0500",
+      "bred_pig": "2021-05-30 15:33:42 -0500"
     },
     "done": false
   },
@@ -580,6 +630,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-05-29 13:47:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2021-05-30 15:28:08 -0500"
     },
     "done": true
   },
@@ -808,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2021-05-30 15:17:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-05-29 12:34:10 -0500"
@@ -874,6 +936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-05-30 15:53:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2021-05-29 19:54:01 -0500",
@@ -888,6 +956,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-05-29 19:43:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2021-05-30 15:17:31 -0500"
     },
     "done": true
   },
@@ -933,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-30 15:53:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-05-29 12:52:01 -0500"
@@ -942,6 +1022,18 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-05-29 13:15:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2021-05-30 15:17:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2021-05-30 14:40:02 -0500"
     },
     "done": true
   },

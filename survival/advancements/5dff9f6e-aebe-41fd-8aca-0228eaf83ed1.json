@@ -1408,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-05-30 15:26:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-05-29 15:53:35 -0500"
