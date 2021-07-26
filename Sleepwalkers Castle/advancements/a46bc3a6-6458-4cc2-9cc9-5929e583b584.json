@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-05-09 20:49:44 -0500"
@@ -715,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2021-01-10 00:13:15 -0600"
@@ -817,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-05-14 16:01:55 -0500"
@@ -838,6 +856,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-01-14 20:29:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
     },
     "done": true
   },
@@ -1075,6 +1099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2021-06-17 23:26:29 -0500"
@@ -1213,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-01-08 17:11:57 -0600"
@@ -1234,6 +1270,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2021-01-08 17:15:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
     },
     "done": true
   },
@@ -1516,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2021-04-03 19:24:55 -0500"
@@ -1624,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-01-10 02:04:44 -0600"
@@ -1676,7 +1730,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-01-10 00:52:49 -0600",
       "minecraft:nether_wastes": "2021-01-09 22:41:51 -0600",
-      "minecraft:soul_sand_valley": "2021-07-25 16:54:59 -0500"
+      "minecraft:soul_sand_valley": "2021-07-25 16:54:59 -0500",
+      "minecraft:warped_forest": "2021-07-26 01:00:55 -0500"
     },
     "done": false
   },
@@ -1809,6 +1864,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-01-14 21:18:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
     },
     "done": true
   },
@@ -2055,6 +2116,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2021-05-05 21:32:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-26 01:01:47 -0500"
     },
     "done": true
   },
@@ -2632,6 +2699,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-14 21:23:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2021-07-26 01:27:15 -0500"
     },
     "done": true
   },
