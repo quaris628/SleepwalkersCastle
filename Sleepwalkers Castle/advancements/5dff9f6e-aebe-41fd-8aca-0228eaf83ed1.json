@@ -3250,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2021-07-25 16:49:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-01-07 20:17:31 -0600"
@@ -4390,5 +4396,5 @@
     },
     "done": true
   },
-  "DataVersion": 2724
+  "DataVersion": 2730
 }

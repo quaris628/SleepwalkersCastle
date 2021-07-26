@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-07-25 16:43:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2021-01-09 02:43:41 -0600"
@@ -404,6 +410,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-08 17:43:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2021-07-25 16:54:47 -0500"
     },
     "done": true
   },
@@ -1663,7 +1675,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-01-10 00:52:49 -0600",
-      "minecraft:nether_wastes": "2021-01-09 22:41:51 -0600"
+      "minecraft:nether_wastes": "2021-01-09 22:41:51 -0600",
+      "minecraft:soul_sand_valley": "2021-07-25 16:54:59 -0500"
     },
     "done": false
   },
@@ -1784,6 +1797,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-01-14 21:32:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2021-07-25 16:54:47 -0500"
     },
     "done": true
   },
@@ -2982,6 +3001,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2021-07-25 15:59:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-01-09 22:47:47 -0600"
@@ -3594,5 +3619,5 @@
     },
     "done": true
   },
-  "DataVersion": 2724
+  "DataVersion": 2730
 }
