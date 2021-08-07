@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2021-08-07 13:07:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2020-01-11 12:38:32 -0600"
@@ -464,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2021-08-06 14:10:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-06 19:14:29 -0600"
@@ -722,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2021-08-07 13:55:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-01-06 19:18:29 -0600"
@@ -812,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2021-08-07 13:07:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-01-14 20:42:52 -0600",
@@ -833,6 +857,7 @@
       "minecraft:piglin": "2020-12-24 15:07:48 -0600",
       "minecraft:enderman": "2020-01-10 23:16:19 -0600",
       "minecraft:silverfish": "2020-01-09 11:49:58 -0600",
+      "minecraft:stray": "2021-08-07 13:52:40 -0500",
       "minecraft:endermite": "2021-05-05 13:39:16 -0500",
       "minecraft:zombie": "2020-01-06 19:13:00 -0600",
       "minecraft:drowned": "2020-01-11 15:59:20 -0600",
@@ -1164,6 +1189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2021-08-07 13:55:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-01-06 19:02:46 -0600"
@@ -1269,6 +1300,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2021-01-15 03:57:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2021-08-06 14:10:47 -0500"
     },
     "done": true
   },
@@ -1744,13 +1781,16 @@
     "criteria": {
       "minecraft:jungle_edge": "2020-12-26 15:36:09 -0600",
       "minecraft:cold_ocean": "2020-12-26 15:08:44 -0600",
+      "minecraft:snowy_mountains": "2021-08-07 13:50:18 -0500",
       "minecraft:forest": "2020-01-08 00:49:03 -0600",
       "minecraft:mountains": "2020-01-06 19:38:43 -0600",
       "minecraft:taiga": "2020-01-11 16:22:57 -0600",
       "minecraft:desert_hills": "2020-01-09 17:56:35 -0600",
       "minecraft:deep_cold_ocean": "2020-12-26 15:08:51 -0600",
+      "minecraft:snowy_tundra": "2021-08-07 13:12:15 -0500",
       "minecraft:taiga_hills": "2020-01-15 18:40:24 -0600",
       "minecraft:desert": "2020-01-08 22:24:50 -0600",
+      "minecraft:frozen_river": "2021-08-07 13:13:45 -0500",
       "minecraft:deep_frozen_ocean": "2020-12-26 15:08:57 -0600",
       "minecraft:jungle": "2020-12-26 15:35:35 -0600",
       "minecraft:birch_forest": "2020-01-10 12:27:41 -0600",
@@ -1762,6 +1802,7 @@
       "minecraft:dark_forest": "2020-01-06 19:37:59 -0600",
       "minecraft:river": "2020-01-09 17:41:57 -0600",
       "minecraft:lukewarm_ocean": "2020-12-26 15:54:31 -0600",
+      "minecraft:snowy_taiga": "2021-08-07 13:04:32 -0500",
       "minecraft:birch_forest_hills": "2020-01-10 12:29:33 -0600",
       "minecraft:wooded_mountains": "2020-01-06 19:41:59 -0600",
       "minecraft:wooded_hills": "2020-01-09 19:48:23 -0600",
@@ -2533,6 +2574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2021-08-07 13:04:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-01-06 19:36:32 -0600"
@@ -2653,6 +2700,7 @@
       "apple": "2020-01-08 23:32:06 -0600",
       "potato": "2020-01-13 16:36:58 -0600",
       "poisonous_potato": "2020-01-15 18:11:07 -0600",
+      "pumpkin_pie": "2021-08-06 12:55:29 -0500",
       "bread": "2020-01-08 20:48:59 -0600",
       "golden_apple": "2021-01-14 21:42:50 -0600",
       "rotten_flesh": "2021-04-03 17:55:29 -0500",
@@ -2716,6 +2764,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2021-05-04 21:34:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2021-08-07 13:04:22 -0500"
     },
     "done": true
   },
@@ -3256,6 +3310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-08-07 13:14:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-01-07 20:17:31 -0600"
@@ -3532,6 +3592,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2021-08-06 14:12:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-01-06 19:26:38 -0600"
@@ -3637,6 +3703,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2020-01-12 00:57:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-08-06 14:10:47 -0500"
     },
     "done": true
   },
@@ -3787,6 +3859,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2020-01-09 02:48:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-08-06 14:10:47 -0500"
     },
     "done": true
   },
@@ -4009,6 +4087,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-01-06 21:24:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2021-08-07 13:55:39 -0500"
     },
     "done": true
   },
