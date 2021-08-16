@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2021-08-14 15:46:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-01-14 20:29:39 -0600"
@@ -1483,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2021-08-14 15:46:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-08 17:43:56 -0600"
@@ -2320,6 +2332,7 @@
       "pumpkin_pie": "2021-08-06 13:17:19 -0500",
       "bread": "2021-01-08 17:13:18 -0600",
       "golden_apple": "2021-04-01 00:15:34 -0500",
+      "beetroot": "2021-08-14 18:53:01 -0500",
       "cooked_chicken": "2021-01-08 23:39:02 -0600",
       "carrot": "2021-05-14 15:59:34 -0500"
     },
@@ -3319,6 +3332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2021-08-11 20:17:00 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-05-09 21:12:15 -0500"
@@ -3571,6 +3590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2021-08-14 15:46:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-10 00:16:09 -0600"
@@ -3730,6 +3755,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2021-05-04 16:09:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2021-08-14 15:46:55 -0500"
     },
     "done": true
   },
