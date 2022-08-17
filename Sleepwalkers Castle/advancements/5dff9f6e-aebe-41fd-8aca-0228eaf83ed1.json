@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2022-08-16 21:28:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-28 20:33:48 -0600"
@@ -2431,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2022-08-16 21:28:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-01-06 18:53:52 -0600"
@@ -3408,6 +3420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2022-08-16 21:28:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-01-06 19:46:55 -0600"
@@ -3744,6 +3762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2022-08-16 21:28:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-06-09 01:10:19 -0500"
@@ -4019,6 +4043,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-01-06 19:36:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2022-08-16 21:28:43 -0500"
     },
     "done": true
   },
@@ -4310,6 +4340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2022-08-16 21:28:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-01-09 02:49:49 -0600"
@@ -4379,6 +4415,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-27 18:51:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2022-08-16 20:10:01 -0500"
     },
     "done": true
   },
