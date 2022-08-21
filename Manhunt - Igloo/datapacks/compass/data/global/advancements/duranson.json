@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": "Datapacks by Duranson                                            ",
+        "description": "@duranson on Planet Minecraft",
+        "frame": "goal",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'Duranson'}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
