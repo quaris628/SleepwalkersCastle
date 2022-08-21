@@ -2805,6 +2805,7 @@
       "minecraft:pillager": "2020-01-14 20:42:52 -0600",
       "minecraft:blaze": "2020-12-24 15:08:26 -0600",
       "minecraft:skeleton": "2020-01-06 19:08:59 -0600",
+      "minecraft:ravager": "2022-08-20 08:50:23 -0500",
       "minecraft:ghast": "2020-01-12 14:53:06 -0600",
       "minecraft:hoglin": "2021-08-08 00:26:47 -0500",
       "minecraft:vindicator": "2020-12-26 20:27:58 -0600",
@@ -2814,6 +2815,7 @@
       "minecraft:creeper": "2020-01-06 19:21:55 -0600",
       "minecraft:wither": "2021-01-14 22:03:43 -0600",
       "minecraft:slime": "2020-01-11 13:33:24 -0600",
+      "minecraft:evoker": "2022-08-20 09:00:20 -0500",
       "minecraft:phantom": "2021-08-07 23:44:30 -0500",
       "minecraft:zombified_piglin": "2020-01-13 14:52:48 -0600",
       "minecraft:witch": "2020-01-11 15:34:51 -0600",
@@ -2826,6 +2828,7 @@
       "minecraft:silverfish": "2020-01-09 11:49:58 -0600",
       "minecraft:stray": "2021-08-07 13:52:40 -0500",
       "minecraft:endermite": "2021-05-05 13:39:16 -0500",
+      "minecraft:vex": "2022-08-20 09:00:53 -0500",
       "minecraft:zombie": "2020-01-06 19:13:00 -0600",
       "minecraft:drowned": "2020-01-11 15:59:20 -0600",
       "minecraft:zombie_villager": "2020-01-07 23:29:55 -0600"
@@ -3669,6 +3672,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2021-06-09 01:00:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-08-20 09:00:25 -0500"
     },
     "done": true
   },
