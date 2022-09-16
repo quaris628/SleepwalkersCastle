@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-09-11 12:05:28 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2020-01-07 20:17:16 -0600"
@@ -3219,6 +3225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-09-12 21:49:00 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-04-30 22:05:37 -0500"
@@ -3396,9 +3408,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2020-01-15 18:40:24 -0600",
+      "minecraft:deep_ocean": "2022-09-12 21:36:45 -0500",
       "minecraft:frozen_river": "2021-08-07 13:13:45 -0500",
       "minecraft:birch_forest": "2020-01-10 12:29:33 -0600",
       "minecraft:windswept_hills": "2020-01-06 19:38:43 -0600",
+      "minecraft:wooded_badlands": "2022-09-12 22:02:54 -0500",
+      "minecraft:badlands": "2022-09-12 22:08:40 -0500",
       "minecraft:savanna_plateau": "2020-01-09 18:04:50 -0600",
       "minecraft:beach": "2020-01-09 17:47:49 -0600",
       "minecraft:dark_forest": "2020-01-06 19:37:59 -0600",
@@ -3416,8 +3431,10 @@
       "minecraft:deep_frozen_ocean": "2020-12-26 15:08:57 -0600",
       "minecraft:windswept_forest": "2020-01-06 19:41:59 -0600",
       "minecraft:jungle": "2020-12-26 15:47:34 -0600",
+      "minecraft:ocean": "2022-09-12 21:27:30 -0500",
       "minecraft:warm_ocean": "2020-12-26 19:12:02 -0600",
       "minecraft:deep_lukewarm_ocean": "2020-12-26 15:55:16 -0600",
+      "minecraft:old_growth_birch_forest": "2022-09-12 21:58:39 -0500",
       "minecraft:savanna": "2020-01-09 17:42:36 -0600",
       "minecraft:plains": "2020-01-06 18:53:53 -0600"
     },
@@ -4292,6 +4309,12 @@
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2021-06-10 19:55:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2022-09-11 20:52:58 -0500"
     },
     "done": true
   },
