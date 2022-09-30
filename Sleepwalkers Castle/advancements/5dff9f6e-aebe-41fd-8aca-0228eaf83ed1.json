@@ -3478,6 +3478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-09-29 21:56:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-01-06 19:18:41 -0600"
@@ -4163,6 +4169,7 @@
       "cookie": "2021-05-11 17:37:54 -0500",
       "melon_slice": "2020-01-15 18:11:55 -0600",
       "cooked_chicken": "2020-12-26 15:23:40 -0600",
+      "mushroom_stew": "2022-09-29 21:01:33 -0500",
       "rabbit_stew": "2020-01-14 00:26:35 -0600",
       "cooked_salmon": "2021-04-26 01:06:16 -0500",
       "carrot": "2020-01-12 22:26:16 -0600"
