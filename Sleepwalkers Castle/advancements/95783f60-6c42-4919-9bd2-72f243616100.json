@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-02-25 16:56:15 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-04-03 22:04:04 -0500"
@@ -179,6 +185,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-07-11 11:31:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-02-25 16:17:12 -0600"
     },
     "done": true
   },
@@ -326,6 +338,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-25 19:03:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2023-02-25 18:52:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-27 21:10:23 -0500"
@@ -395,6 +419,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-05-02 23:15:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-25 19:03:28 -0600"
     },
     "done": true
   },
@@ -500,6 +530,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-03 20:22:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-25 19:03:28 -0600"
     },
     "done": true
   },
@@ -641,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2023-02-25 18:57:25 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2020-05-08 21:08:22 -0500"
@@ -749,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-02-25 17:22:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-04-27 17:02:26 -0500"
@@ -836,6 +884,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-03 22:04:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-25 19:03:28 -0600"
     },
     "done": true
   },
@@ -1000,25 +1054,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2020-05-14 20:43:47 -0500",
-      "minecraft:forest": "2020-04-03 20:24:44 -0500",
-      "minecraft:mountains": "2020-04-03 21:18:56 -0500",
       "minecraft:taiga": "2020-05-16 18:09:05 -0500",
-      "minecraft:desert_hills": "2020-04-03 20:26:13 -0500",
-      "minecraft:deep_cold_ocean": "2020-05-14 20:43:51 -0500",
-      "minecraft:desert": "2020-04-03 20:26:59 -0500",
-      "minecraft:deep_frozen_ocean": "2020-05-16 18:00:08 -0500",
-      "minecraft:birch_forest": "2020-04-27 21:09:52 -0500",
-      "minecraft:deep_lukewarm_ocean": "2020-05-16 18:29:55 -0500",
+      "minecraft:birch_forest": "2020-04-27 21:09:57 -0500",
+      "minecraft:windswept_hills": "2020-04-03 21:18:56 -0500",
       "minecraft:savanna_plateau": "2020-04-30 17:51:12 -0500",
       "minecraft:beach": "2020-04-03 20:27:04 -0500",
       "minecraft:dark_forest": "2020-04-30 17:38:45 -0500",
       "minecraft:river": "2020-04-03 20:36:35 -0500",
       "minecraft:lukewarm_ocean": "2020-05-16 18:45:40 -0500",
-      "minecraft:birch_forest_hills": "2020-04-27 21:09:57 -0500",
-      "minecraft:wooded_mountains": "2020-04-03 21:19:48 -0500",
-      "minecraft:wooded_hills": "2020-04-03 22:27:49 -0500",
       "minecraft:swamp": "2020-04-27 21:14:10 -0500",
+      "minecraft:cold_ocean": "2020-05-14 20:43:47 -0500",
+      "minecraft:forest": "2020-04-03 22:27:49 -0500",
+      "minecraft:deep_cold_ocean": "2020-05-14 20:43:51 -0500",
+      "minecraft:desert": "2020-04-03 20:26:59 -0500",
+      "minecraft:deep_frozen_ocean": "2020-05-16 18:00:08 -0500",
+      "minecraft:windswept_forest": "2020-04-03 21:19:48 -0500",
+      "minecraft:ocean": "2023-02-25 18:16:26 -0600",
+      "minecraft:deep_lukewarm_ocean": "2020-05-16 18:29:55 -0500",
       "minecraft:savanna": "2020-04-03 20:52:08 -0500",
       "minecraft:plains": "2020-04-03 20:20:20 -0500"
     },
@@ -1057,6 +1109,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-04-30 17:57:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-02-25 17:22:28 -0600"
     },
     "done": true
   },
@@ -1186,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2023-02-25 17:18:52 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2020-04-27 17:21:04 -0500"
@@ -1237,6 +1301,18 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-05-01 16:03:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2023-02-25 17:22:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-02-25 16:17:49 -0600"
     },
     "done": true
   },
@@ -1318,6 +1394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-02-25 16:26:15 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-05-02 23:15:38 -0500"
@@ -1369,6 +1451,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-03 21:12:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-25 18:57:51 -0600"
     },
     "done": true
   },
@@ -1688,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-25 19:03:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-04-03 20:28:55 -0500"
@@ -1964,6 +2058,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-02-25 18:51:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-25 19:03:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-05-02 18:15:36 -0500"
@@ -2015,6 +2121,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-04-03 20:36:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-02-25 18:53:13 -0600"
     },
     "done": true
   },
@@ -2111,6 +2223,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-05-13 19:16:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-25 18:57:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-25 18:57:51 -0600"
     },
     "done": true
   },
@@ -2306,6 +2430,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-02-25 18:52:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-25 19:03:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-04-30 19:14:53 -0500"
@@ -2339,6 +2475,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-04-03 20:30:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2023-02-25 17:13:26 -0600"
     },
     "done": true
   },
@@ -2414,6 +2556,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-02-25 18:53:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-02-25 18:57:51 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-04-03 22:04:04 -0500"
@@ -2438,6 +2592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2023-02-25 16:17:53 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-27 17:21:04 -0500"
@@ -2459,6 +2619,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2021-07-11 10:45:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-02-25 18:57:51 -0600"
     },
     "done": true
   },
@@ -2492,13 +2658,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-05-02 18:15:58 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-05-02 18:15:58 -0500"
     },
@@ -2564,5 +2730,5 @@
     },
     "done": true
   },
-  "DataVersion": 2724
+  "DataVersion": 3120
 }
