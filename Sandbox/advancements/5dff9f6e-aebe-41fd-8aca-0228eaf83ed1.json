@@ -1277,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2022-11-12 21:18:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-12-19 23:58:07 -0600"
@@ -1966,6 +1972,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-12-20 22:24:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-11-12 21:24:23 -0600"
     },
     "done": true
   },
@@ -3253,14 +3265,14 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/tabby.png": "2020-12-20 01:25:04 -0600",
-      "textures/entity/cat/white.png": "2020-12-25 01:00:33 -0600",
-      "textures/entity/cat/black.png": "2020-12-20 01:21:32 -0600",
-      "textures/entity/cat/siamese.png": "2020-12-21 19:00:33 -0600",
-      "textures/entity/cat/ragdoll.png": "2020-12-20 01:21:40 -0600",
-      "textures/entity/cat/british_shorthair.png": "2020-12-20 01:21:33 -0600",
-      "textures/entity/cat/persian.png": "2020-12-20 01:21:37 -0600",
-      "textures/entity/cat/calico.png": "2020-12-20 01:21:44 -0600"
+      "minecraft:white": "2020-12-25 01:00:33 -0600",
+      "minecraft:tabby": "2020-12-20 01:25:04 -0600",
+      "minecraft:calico": "2020-12-20 01:21:44 -0600",
+      "minecraft:siamese": "2020-12-21 19:00:33 -0600",
+      "minecraft:persian": "2020-12-20 01:21:37 -0600",
+      "minecraft:black": "2020-12-20 01:21:32 -0600",
+      "minecraft:ragdoll": "2020-12-20 01:21:40 -0600",
+      "minecraft:british_shorthair": "2020-12-20 01:21:33 -0600"
     },
     "done": false
   },
@@ -3366,5 +3378,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 3120
 }
