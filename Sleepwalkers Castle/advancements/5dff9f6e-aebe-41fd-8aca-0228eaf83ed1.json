@@ -5565,5 +5565,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2023-11-23 22:21:15 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
