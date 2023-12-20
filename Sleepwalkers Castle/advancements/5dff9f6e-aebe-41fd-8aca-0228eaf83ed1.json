@@ -1584,6 +1584,7 @@
     "criteria": {
       "minecraft:sheep": "2020-01-08 21:24:52 -0600",
       "minecraft:cow": "2020-01-11 13:10:56 -0600",
+      "minecraft:goat": "2023-11-24 22:22:14 -0600",
       "minecraft:chicken": "2020-01-10 12:45:01 -0600",
       "minecraft:horse": "2020-01-10 23:38:56 -0600"
     },
@@ -5568,6 +5569,24 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2023-11-23 22:21:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2023-11-24 22:01:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-11-25 03:54:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2023-11-25 23:40:21 -0600"
     },
     "done": true
   },
