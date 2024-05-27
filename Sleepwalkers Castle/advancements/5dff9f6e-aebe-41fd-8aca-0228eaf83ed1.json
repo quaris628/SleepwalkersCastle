@@ -338,17 +338,30 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-12-26 15:08:44 -0600",
       "minecraft:snowy_slopes": "2022-10-16 14:39:08 -0500",
+      "minecraft:forest": "2020-01-09 19:48:23 -0600",
       "minecraft:taiga": "2020-01-15 18:40:24 -0600",
       "minecraft:deep_ocean": "2022-09-12 21:36:45 -0500",
+      "minecraft:lush_caves": "2022-09-20 19:07:50 -0500",
+      "minecraft:deep_cold_ocean": "2020-12-26 15:08:51 -0600",
+      "minecraft:frozen_ocean": "2023-03-25 20:58:14 -0500",
       "minecraft:eroded_badlands": "2022-09-18 15:10:37 -0500",
+      "minecraft:desert": "2020-01-08 22:24:50 -0600",
       "minecraft:frozen_river": "2021-08-07 13:13:45 -0500",
+      "minecraft:deep_frozen_ocean": "2020-12-26 15:08:57 -0600",
+      "minecraft:windswept_forest": "2020-01-06 19:41:59 -0600",
+      "minecraft:jungle": "2020-12-26 15:47:34 -0600",
+      "minecraft:ocean": "2022-09-12 21:27:30 -0500",
       "minecraft:sunflower_plains": "2023-04-02 15:02:53 -0500",
       "minecraft:birch_forest": "2020-01-10 12:29:33 -0600",
       "minecraft:windswept_hills": "2020-01-06 19:38:43 -0600",
       "minecraft:wooded_badlands": "2022-09-12 22:02:54 -0500",
       "minecraft:bamboo_jungle": "2022-09-19 23:46:53 -0500",
+      "minecraft:warm_ocean": "2020-12-26 19:12:02 -0600",
+      "minecraft:deep_lukewarm_ocean": "2020-12-26 15:55:16 -0600",
       "minecraft:badlands": "2022-09-12 22:08:40 -0500",
+      "minecraft:flower_forest": "2023-04-03 22:43:29 -0500",
       "minecraft:savanna_plateau": "2020-01-09 18:04:50 -0600",
       "minecraft:beach": "2020-01-09 17:47:49 -0600",
       "minecraft:dark_forest": "2020-01-06 19:37:59 -0600",
@@ -359,24 +372,11 @@
       "minecraft:stony_shore": "2020-01-11 13:31:41 -0600",
       "minecraft:snowy_taiga": "2021-08-07 13:04:32 -0500",
       "minecraft:dripstone_caves": "2022-09-20 18:10:43 -0500",
-      "minecraft:swamp": "2020-01-11 13:21:49 -0600",
-      "minecraft:grove": "2022-10-16 20:30:11 -0500",
-      "minecraft:cold_ocean": "2020-12-26 15:08:44 -0600",
-      "minecraft:forest": "2020-01-09 19:48:23 -0600",
-      "minecraft:lush_caves": "2022-09-20 19:07:50 -0500",
-      "minecraft:deep_cold_ocean": "2020-12-26 15:08:51 -0600",
-      "minecraft:frozen_ocean": "2023-03-25 20:58:14 -0500",
-      "minecraft:desert": "2020-01-08 22:24:50 -0600",
-      "minecraft:deep_frozen_ocean": "2020-12-26 15:08:57 -0600",
-      "minecraft:windswept_forest": "2020-01-06 19:41:59 -0600",
-      "minecraft:jungle": "2020-12-26 15:47:34 -0600",
-      "minecraft:ocean": "2022-09-12 21:27:30 -0500",
-      "minecraft:warm_ocean": "2020-12-26 19:12:02 -0600",
-      "minecraft:deep_lukewarm_ocean": "2020-12-26 15:55:16 -0600",
-      "minecraft:flower_forest": "2023-04-03 22:43:29 -0500",
       "minecraft:frozen_peaks": "2023-11-23 17:48:37 -0600",
       "minecraft:old_growth_birch_forest": "2022-09-12 21:58:39 -0500",
       "minecraft:deep_dark": "2022-09-18 22:03:15 -0500",
+      "minecraft:swamp": "2020-01-11 13:21:49 -0600",
+      "minecraft:grove": "2022-10-16 20:30:11 -0500",
       "minecraft:meadow": "2022-10-16 15:02:20 -0500",
       "minecraft:windswept_gravelly_hills": "2023-04-03 22:58:43 -0500",
       "minecraft:savanna": "2020-01-09 17:42:36 -0600",
@@ -503,9 +503,11 @@
       "minecraft:pillager": "2020-01-14 20:42:52 -0600",
       "minecraft:blaze": "2020-12-24 15:08:26 -0600",
       "minecraft:skeleton": "2020-01-06 19:08:59 -0600",
+      "minecraft:elder_guardian": "2024-05-26 12:30:41 -0500",
       "minecraft:ravager": "2022-08-20 08:50:23 -0500",
       "minecraft:ghast": "2020-01-12 14:53:06 -0600",
       "minecraft:hoglin": "2021-08-08 00:26:47 -0500",
+      "minecraft:guardian": "2024-05-26 12:28:15 -0500",
       "minecraft:vindicator": "2020-12-26 20:27:58 -0600",
       "minecraft:magma_cube": "2020-12-24 15:13:01 -0600",
       "minecraft:spider": "2020-01-06 19:26:36 -0600",
@@ -550,27 +552,27 @@
     "criteria": {
       "cooked_porkchop": "2020-12-27 19:09:34 -0600",
       "chicken": "2020-12-26 20:00:17 -0600",
+      "bread": "2020-01-08 20:48:59 -0600",
+      "golden_apple": "2021-01-14 21:42:50 -0600",
       "honey_bottle": "2021-08-22 20:26:52 -0500",
+      "rotten_flesh": "2021-04-03 17:55:29 -0500",
+      "cookie": "2021-05-11 17:37:54 -0500",
       "cooked_mutton": "2020-01-11 11:55:27 -0600",
+      "glow_berries": "2023-07-07 21:44:40 -0500",
       "sweet_berries": "2021-04-24 20:50:11 -0500",
       "cooked_beef": "2020-01-06 19:13:19 -0600",
       "chorus_fruit": "2021-04-01 01:10:43 -0500",
       "baked_potato": "2020-01-15 18:11:48 -0600",
+      "melon_slice": "2020-01-15 18:11:55 -0600",
       "apple": "2020-01-08 23:32:06 -0600",
+      "cooked_chicken": "2020-12-26 15:23:40 -0600",
       "potato": "2020-01-13 16:36:58 -0600",
       "cooked_cod": "2022-09-20 18:06:24 -0500",
-      "poisonous_potato": "2020-01-15 18:11:07 -0600",
-      "pumpkin_pie": "2021-08-06 12:55:29 -0500",
-      "bread": "2020-01-08 20:48:59 -0600",
-      "golden_apple": "2021-01-14 21:42:50 -0600",
-      "rotten_flesh": "2021-04-03 17:55:29 -0500",
-      "cookie": "2021-05-11 17:37:54 -0500",
-      "glow_berries": "2023-07-07 21:44:40 -0500",
-      "melon_slice": "2020-01-15 18:11:55 -0600",
-      "cooked_chicken": "2020-12-26 15:23:40 -0600",
       "mushroom_stew": "2022-09-29 21:01:33 -0500",
       "rabbit_stew": "2020-01-14 00:26:35 -0600",
+      "poisonous_potato": "2020-01-15 18:11:07 -0600",
       "cooked_salmon": "2021-04-26 01:06:16 -0500",
+      "pumpkin_pie": "2021-08-06 12:55:29 -0500",
       "carrot": "2020-01-12 22:26:16 -0600"
     },
     "done": false
@@ -1582,11 +1584,12 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2020-01-08 21:24:52 -0600",
       "minecraft:cow": "2020-01-11 13:10:56 -0600",
       "minecraft:goat": "2023-11-24 22:22:14 -0600",
       "minecraft:chicken": "2020-01-10 12:45:01 -0600",
-      "minecraft:horse": "2020-01-10 23:38:56 -0600"
+      "minecraft:horse": "2020-01-10 23:38:56 -0600",
+      "minecraft:sheep": "2020-01-08 21:24:52 -0600",
+      "minecraft:bee": "2024-05-25 14:25:27 -0500"
     },
     "done": false
   },
@@ -5590,5 +5593,179 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-25 13:49:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-05-25 13:49:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-05-25 13:49:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-05-26 12:30:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-05-26 12:30:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-05-26 12:30:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-05-26 12:30:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-05-26 12:30:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-05-26 12:30:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-05-26 12:30:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-05-26 12:30:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-05-26 12:39:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-05-26 12:39:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-05-26 12:39:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-05-26 12:39:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-05-26 12:39:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-05-26 12:39:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-05-26 12:40:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-05-26 12:40:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-05-26 12:40:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-05-26 12:40:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-05-26 12:52:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-05-26 12:52:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-05-26 13:14:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-05-26 13:19:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-05-26 13:19:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-26 13:19:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-05-26 23:31:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-05-26 23:31:48 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }
