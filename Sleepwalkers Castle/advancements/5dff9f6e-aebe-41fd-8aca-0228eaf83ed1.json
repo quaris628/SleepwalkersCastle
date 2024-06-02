@@ -380,7 +380,8 @@
       "minecraft:meadow": "2022-10-16 15:02:20 -0500",
       "minecraft:windswept_gravelly_hills": "2023-04-03 22:58:43 -0500",
       "minecraft:savanna": "2020-01-09 17:42:36 -0600",
-      "minecraft:plains": "2020-01-06 18:53:53 -0600"
+      "minecraft:plains": "2020-01-06 18:53:53 -0600",
+      "minecraft:jagged_peaks": "2024-05-27 23:10:55 -0500"
     },
     "done": false
   },
@@ -1587,6 +1588,7 @@
       "minecraft:cow": "2020-01-11 13:10:56 -0600",
       "minecraft:goat": "2023-11-24 22:22:14 -0600",
       "minecraft:chicken": "2020-01-10 12:45:01 -0600",
+      "minecraft:wolf": "2024-05-27 22:17:52 -0500",
       "minecraft:horse": "2020-01-10 23:38:56 -0600",
       "minecraft:sheep": "2020-01-08 21:24:52 -0600",
       "minecraft:bee": "2024-05-25 14:25:27 -0500"
@@ -5764,6 +5766,54 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-05-26 23:31:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-05-27 04:41:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-05-27 04:41:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-05-27 04:41:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-27 19:33:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-05-27 19:33:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-05-27 19:33:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2024-05-27 23:16:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2024-05-27 23:16:50 -0500"
     },
     "done": true
   },
