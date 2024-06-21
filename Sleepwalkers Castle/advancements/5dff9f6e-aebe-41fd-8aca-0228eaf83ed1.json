@@ -556,27 +556,28 @@
     "criteria": {
       "cooked_porkchop": "2020-12-27 19:09:34 -0600",
       "chicken": "2020-12-26 20:00:17 -0600",
-      "bread": "2020-01-08 20:48:59 -0600",
-      "golden_apple": "2021-01-14 21:42:50 -0600",
       "honey_bottle": "2021-08-22 20:26:52 -0500",
-      "rotten_flesh": "2021-04-03 17:55:29 -0500",
-      "cookie": "2021-05-11 17:37:54 -0500",
       "cooked_mutton": "2020-01-11 11:55:27 -0600",
-      "glow_berries": "2023-07-07 21:44:40 -0500",
       "sweet_berries": "2021-04-24 20:50:11 -0500",
       "cooked_beef": "2020-01-06 19:13:19 -0600",
       "chorus_fruit": "2021-04-01 01:10:43 -0500",
       "baked_potato": "2020-01-15 18:11:48 -0600",
-      "melon_slice": "2020-01-15 18:11:55 -0600",
       "apple": "2020-01-08 23:32:06 -0600",
-      "cooked_chicken": "2020-12-26 15:23:40 -0600",
       "potato": "2020-01-13 16:36:58 -0600",
       "cooked_cod": "2022-09-20 18:06:24 -0500",
+      "poisonous_potato": "2020-01-15 18:11:07 -0600",
+      "pumpkin_pie": "2021-08-06 12:55:29 -0500",
+      "bread": "2020-01-08 20:48:59 -0600",
+      "golden_apple": "2021-01-14 21:42:50 -0600",
+      "rotten_flesh": "2021-04-03 17:55:29 -0500",
+      "cookie": "2021-05-11 17:37:54 -0500",
+      "glow_berries": "2023-07-07 21:44:40 -0500",
+      "melon_slice": "2020-01-15 18:11:55 -0600",
+      "golden_carrot": "2024-06-17 22:40:03 -0500",
+      "cooked_chicken": "2020-12-26 15:23:40 -0600",
       "mushroom_stew": "2022-09-29 21:01:33 -0500",
       "rabbit_stew": "2020-01-14 00:26:35 -0600",
-      "poisonous_potato": "2020-01-15 18:11:07 -0600",
       "cooked_salmon": "2021-04-26 01:06:16 -0500",
-      "pumpkin_pie": "2021-08-06 12:55:29 -0500",
       "carrot": "2020-01-12 22:26:16 -0600"
     },
     "done": false
@@ -5967,6 +5968,37 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-06-09 23:14:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2024-06-16 04:34:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-06-17 23:04:41 -0500",
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-06-19 23:13:00 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-06-17 23:04:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-06-19 21:37:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-06-19 21:37:35 -0500"
     },
     "done": true
   },
