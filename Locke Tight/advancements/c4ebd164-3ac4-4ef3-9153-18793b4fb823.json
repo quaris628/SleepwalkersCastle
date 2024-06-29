@@ -1,0 +1,500 @@
+{
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "inv_changed-minecraft:oak_leaves": "2022-01-09 11:12:44 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2021-12-29 18:11:37 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2021-12-30 05:01:32 -0500",
+      "ratatouille": "2021-12-30 17:39:20 -0500",
+      "pasta_with_meatballs": "2021-12-30 20:31:29 -0500",
+      "steak_and_potatoes": "2021-12-29 19:22:53 -0500",
+      "fried_rice": "2021-12-30 16:30:00 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2021-12-29 15:56:35 -0500",
+      "onion": "2021-12-29 17:53:14 -0500",
+      "tomato": "2021-12-29 16:19:24 -0500",
+      "rice": "2021-12-29 17:56:42 -0500",
+      "beetroot": "2021-12-29 16:19:16 -0500",
+      "sugar_cane": "2021-12-29 01:05:40 -0500",
+      "potato": "2021-12-29 15:51:47 -0500",
+      "wheat": "2021-12-29 00:01:15 -0500",
+      "melon": "2021-12-29 16:15:27 -0500",
+      "pumpkin": "2021-12-29 16:16:02 -0500",
+      "carrot": "2021-12-29 15:51:46 -0500"
+    },
+    "done": false
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_ocean": "2022-02-19 13:27:16 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2021-12-28 22:33:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2022-01-06 21:32:06 -0500",
+      "minecraft:mule": "2022-01-07 00:43:22 -0500",
+      "minecraft:cow": "2022-01-06 21:32:02 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2021-12-29 15:57:12 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2021-12-29 18:04:00 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_birch": "2021-12-30 22:06:55 -0500",
+      "in_village_mountains": "2022-01-03 17:13:16 -0500",
+      "in_village_dark_oak": "2021-12-29 17:30:59 -0500",
+      "in_village_giant_taiga": "2021-12-30 04:07:23 -0500",
+      "in_village_jungle": "2021-12-29 19:40:32 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2021-12-28 23:37:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-01-02 18:51:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-12-28 22:25:43 -0500"
+    },
+    "done": true
+  },
+  "soaringstructures2:soaringstart": {
+    "criteria": {
+      "adv_test": "2021-12-28 22:22:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-01-02 00:44:49 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2021-12-29 18:47:55 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/drink_hot_cocoa": {
+    "criteria": {
+      "hot_cocoa": "2021-12-30 17:23:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2021-12-30 04:07:53 -0500",
+      "minecraft:taiga": "2021-12-30 23:59:12 -0500",
+      "minecraft:deep_ocean": "2021-12-30 23:26:00 -0500",
+      "minecraft:sunflower_plains": "2021-12-29 17:18:23 -0500",
+      "minecraft:birch_forest": "2021-12-30 04:10:47 -0500",
+      "minecraft:bamboo_jungle": "2021-12-30 19:29:08 -0500",
+      "minecraft:savanna_plateau": "2021-12-28 22:22:58 -0500",
+      "minecraft:beach": "2022-01-07 01:15:03 -0500",
+      "minecraft:stony_peaks": "2021-12-29 17:35:03 -0500",
+      "minecraft:dark_forest": "2021-12-30 04:10:10 -0500",
+      "minecraft:sparse_jungle": "2021-12-29 18:13:51 -0500",
+      "minecraft:lukewarm_ocean": "2021-12-29 00:29:05 -0500",
+      "minecraft:river": "2021-12-28 22:59:22 -0500",
+      "minecraft:stony_shore": "2021-12-29 00:17:04 -0500",
+      "minecraft:forest": "2021-12-29 17:30:43 -0500",
+      "minecraft:lush_caves": "2021-12-31 17:12:20 -0500",
+      "minecraft:jungle": "2021-12-29 18:15:54 -0500",
+      "minecraft:ocean": "2021-12-30 04:06:42 -0500",
+      "minecraft:old_growth_spruce_taiga": "2021-12-30 04:08:03 -0500",
+      "minecraft:windswept_savanna": "2022-01-12 16:14:36 -0500",
+      "minecraft:deep_lukewarm_ocean": "2021-12-30 04:12:28 -0500",
+      "minecraft:flower_forest": "2022-01-09 12:38:54 -0500",
+      "minecraft:old_growth_birch_forest": "2021-12-30 04:09:24 -0500",
+      "minecraft:meadow": "2021-12-29 17:17:50 -0500",
+      "minecraft:savanna": "2021-12-28 22:26:10 -0500",
+      "minecraft:plains": "2021-12-29 17:17:53 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-12-28 23:18:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-01-02 16:28:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-28 22:27:08 -0500"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_cobblestone": "2022-01-09 11:12:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-12-30 03:44:42 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "roast_chicken": "2021-12-30 20:28:26 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2021-12-30 03:23:56 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2021-12-29 19:23:48 -0500"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2022-01-09 11:12:47 -0500"
+    },
+    "done": true
+  },
+  "soaringstructures2:heavenly_flower_destroy": {
+    "criteria": {
+      "heavenly_flower_destroy": "2021-12-28 23:46:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-12-28 22:29:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-12-29 00:01:15 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_savanna": "2021-12-30 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2022-01-16 00:51:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-12-28 22:45:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-12-28 22:51:27 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2021-12-28 22:24:48 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2021-12-29 17:56:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2021-12-30 21:00:17 -0500",
+      "minecraft:skeleton": "2021-12-28 22:34:14 -0500",
+      "minecraft:ghast": "2022-01-02 16:47:29 -0500",
+      "minecraft:vindicator": "2022-01-16 00:51:57 -0500",
+      "minecraft:magma_cube": "2022-01-09 13:48:54 -0500",
+      "minecraft:spider": "2021-12-29 00:04:18 -0500",
+      "minecraft:creeper": "2021-12-28 22:38:23 -0500",
+      "minecraft:evoker": "2022-01-16 00:53:48 -0500",
+      "minecraft:witch": "2021-12-30 03:23:58 -0500",
+      "minecraft:wither_skeleton": "2021-12-30 18:14:49 -0500",
+      "minecraft:cave_spider": "2021-12-28 23:24:52 -0500",
+      "minecraft:piglin": "2022-01-09 13:49:45 -0500",
+      "minecraft:stray": "2021-12-28 22:47:20 -0500",
+      "minecraft:enderman": "2021-12-29 17:52:08 -0500",
+      "minecraft:silverfish": "2022-01-03 17:06:36 -0500",
+      "minecraft:vex": "2022-01-16 00:53:03 -0500",
+      "minecraft:zombie": "2021-12-28 22:33:35 -0500",
+      "minecraft:drowned": "2021-12-30 23:31:54 -0500",
+      "minecraft:zombie_villager": "2021-12-30 22:07:00 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-01-02 00:44:49 -0500"
+    },
+    "done": true
+  },
+  "soaringstructures2:find_soaring_island": {
+    "criteria": {
+      "in_island": "2021-12-28 23:22:20 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2021-12-30 16:11:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-12-30 17:39:52 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2021-12-29 18:10:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-01-06 21:32:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2021-12-28 23:52:35 -0500",
+      "cooked_mutton": "2021-12-28 22:39:25 -0500",
+      "cooked_beef": "2021-12-28 22:32:50 -0500",
+      "baked_potato": "2021-12-28 22:27:08 -0500",
+      "apple": "2021-12-31 17:20:43 -0500",
+      "pumpkin_pie": "2021-12-30 03:27:11 -0500",
+      "bread": "2021-12-29 16:42:03 -0500",
+      "golden_apple": "2022-01-03 16:55:03 -0500",
+      "rotten_flesh": "2021-12-30 17:23:15 -0500",
+      "beetroot": "2021-12-29 17:41:52 -0500",
+      "cooked_chicken": "2021-12-28 23:02:19 -0500",
+      "mushroom_stew": "2021-12-29 16:47:42 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/use_skillet": {
+    "criteria": {
+      "skillet": "2021-12-29 19:17:15 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2021-12-29 15:56:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-12-30 03:10:10 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2021-12-29 19:11:54 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourished": "2021-12-29 19:22:53 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2021-12-29 16:30:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-01-02 00:47:21 -0500",
+      "minecraft:soul_sand_valley": "2022-01-02 00:44:50 -0500",
+      "minecraft:nether_wastes": "2022-01-09 13:48:14 -0500",
+      "minecraft:basalt_deltas": "2022-01-09 13:48:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-12-30 21:00:19 -0500"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2022-01-09 11:12:48 -0500"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-01-09 11:12:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-12-28 22:36:52 -0500"
+    },
+    "done": true
+  },
+  "betteranimalsplus:lamprey_succ": {
+    "criteria": {
+      "lamprey_succ": "2022-02-21 23:25:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-12-28 23:28:38 -0500"
+    },
+    "done": true
+  },
+  "soaringstructures2:heavenly_tea": {
+    "criteria": {
+      "apple": "2021-12-30 21:13:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-12-28 22:26:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2021-12-28 22:25:27 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_giant_mushroom": {
+    "criteria": {
+      "location0": "2021-12-30 23:43:20 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2021-12-29 16:47:42 -0500"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "inv_changed-minecraft:stone_shovel": "2022-01-09 11:12:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2021-12-28 22:34:50 -0500"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "inv_changed-minecraft:cobblestone_wall": "2022-01-09 11:12:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-12-30 16:47:18 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_stove": {
+    "criteria": {
+      "stove": "2021-12-29 16:46:11 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2022-01-09 11:34:13 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2021-12-28 22:22:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-12-30 22:17:23 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}

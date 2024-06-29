@@ -1,0 +1,40 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2021-12-28 22:38:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2021-12-28 22:40:52 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-28 22:40:52 -0500"
+    },
+    "done": true
+  },
+  "soaringstructures2:soaringstart": {
+    "criteria": {
+      "adv_test": "2021-12-28 22:34:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2021-12-28 22:35:16 -0500",
+      "minecraft:savanna": "2021-12-28 22:34:20 -0500"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2021-12-28 22:34:20 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}
