@@ -649,6 +649,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:lamprey_succ": {
+    "criteria": {
+      "lamprey_succ": "2024-08-04 13:56:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2021-12-31 19:19:32 -0600"
@@ -696,6 +702,12 @@
       "has_traded": "2024-07-02 22:58:43 -0500"
     },
     "done": false
+  },
+  "betteranimalsplus:jellyfish_killed": {
+    "criteria": {
+      "jellyfish_kill": "2024-07-21 16:45:31 -0500"
+    },
+    "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
