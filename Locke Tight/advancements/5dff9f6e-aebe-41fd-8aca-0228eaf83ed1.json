@@ -34,6 +34,7 @@
       "chorus_flower": "2022-01-22 13:16:56 -0600",
       "sugar_cane": "2021-12-31 20:42:20 -0600",
       "potato": "2021-12-31 02:29:59 -0600",
+      "red_mushroom": "2025-01-23 20:04:21 -0600",
       "nether_wart": "2022-01-11 23:56:43 -0600",
       "wheat": "2021-12-31 02:27:52 -0600",
       "melon": "2021-12-31 20:41:22 -0600",
@@ -234,6 +235,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-28 21:24:55 -0600"
+    },
+    "done": true
+  },
   "regrowth:rgroot/offlimits": {
     "criteria": {
       "has_traded": "2024-07-02 22:58:43 -0500"
@@ -278,7 +285,8 @@
   },
   "betteranimalsplus:animal_head_variants": {
     "criteria": {
-      "boarhead_dark_brown": "2022-01-23 23:55:40 -0600"
+      "boarhead_dark_brown": "2022-01-23 23:55:40 -0600",
+      "boarhead_light_brown": "2025-02-28 21:17:28 -0600"
     },
     "done": false
   },
@@ -373,6 +381,7 @@
       "minecraft:stony_shore": "2021-12-31 19:34:12 -0600",
       "minecraft:snowy_plains": "2022-01-22 21:57:13 -0600",
       "minecraft:snowy_taiga": "2022-01-23 22:34:12 -0600",
+      "minecraft:grove": "2025-02-28 21:22:15 -0600",
       "minecraft:jagged_peaks": "2022-01-08 16:13:30 -0600",
       "minecraft:cold_ocean": "2022-01-07 15:20:36 -0600",
       "minecraft:forest": "2021-12-31 02:53:44 -0600",
@@ -388,6 +397,7 @@
       "minecraft:warm_ocean": "2024-07-02 23:58:34 -0500",
       "minecraft:deep_lukewarm_ocean": "2021-12-31 19:45:22 -0600",
       "minecraft:flower_forest": "2022-01-06 16:35:54 -0600",
+      "minecraft:frozen_peaks": "2025-02-28 21:22:15 -0600",
       "minecraft:old_growth_birch_forest": "2022-01-06 12:48:26 -0600",
       "minecraft:meadow": "2021-12-31 02:52:43 -0600",
       "minecraft:savanna": "2021-12-31 02:24:04 -0600",
@@ -593,7 +603,8 @@
   },
   "betteranimalsplus:animal_head_all": {
     "criteria": {
-      "head15": "2022-01-23 23:55:40 -0600"
+      "head15": "2022-01-23 23:55:40 -0600",
+      "head14": "2025-02-28 21:17:28 -0600"
     },
     "done": false
   },
