@@ -6110,12 +6110,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-06-09 21:01:24 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-09 20:29:16 -0500"
@@ -6131,12 +6125,6 @@
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-06-09 20:29:16 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-09 20:34:07 -0500"
     },
     "done": true
   },
@@ -6167,6 +6155,18 @@
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-06-09 20:29:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 20:34:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-06-09 21:01:24 -0500"
     },
     "done": true
   },
