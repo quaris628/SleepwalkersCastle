@@ -6182,5 +6182,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2025-06-13 23:08:44 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
